@@ -27,7 +27,7 @@ a student account
  - Configure network settings:
  - Select inbound ports and choose **HTTP(80),HTTPS(443),SSH(22)**
  - Select **Standard SSD** for OS disk type
- - Check in the option of **Delete with VM**  
+ - Check in the option of **Delete with VM**   
 **Networking**
  - Select basic for network security group
  - Allow slected ports for public inbound ports  
@@ -35,8 +35,7 @@ a student account
  - Select **Enable auto-shutdown**
  - Choose the time for shutdown  
 **Monitoring**
- - In the diagnotics section, choose the recommended option   
-
+ - In the diagnotics section, choose the recommended option  
 ## Connection: 
  - Download the private key to your device
  - To connect with your local machine choose **Native SSH**
