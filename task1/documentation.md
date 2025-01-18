@@ -9,7 +9,7 @@ a student account
 2. Activate Azure for Students:
      - Add Azure for Students subscription
      - This provides additional credits for your Azure resources
-## Step2: Virtual Machine Creation
+## Step 2: Virtual Machine Creation
 **Basic Settings**
 1. From the Azure Portal dashboard, select "Create a resource"
 2. Search for and select "Ubuntu Server 24.04 LTS gen 2" from the Marketplace
