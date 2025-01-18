@@ -18,7 +18,8 @@ a student account
      - **Virtual Machine name**: (Any logical name: lab-robotics)
      - **Region**: (North Europe)
      - **Image**:Ubuntu Server 24.04 LTS gen 2
-     - **Size**:  Standard_B2ls_v2  
+     - **Size**:  Standard_B2ls_v2
+
  **Authentication**
  - Choose Username and SSH Key
  - Write a username and select **RSA SSH Format** key type
