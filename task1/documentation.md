@@ -23,18 +23,22 @@ a student account
  **Authentication**
  - Choose Username and SSH Key
  - Write a username and select **RSA SSH Format** key type
- - write a name in  key pair name   
+ - write a name in  key pair name
+   
  **Disks**
  - Configure network settings:
  - Select inbound ports and choose **HTTP(80),HTTPS(443),SSH(22)**
  - Select **Standard SSD** for OS disk type
- - Check in the option of **Delete with VM**   
+ - Check in the option of **Delete with VM**
+
 **Networking**
  - Select basic for network security group
- - Allow slected ports for public inbound ports  
+ - Allow slected ports for public inbound ports
+
 **Managment**
  - Select **Enable auto-shutdown**
- - Choose the time for shutdown  
+ - Choose the time for shutdown
+
 **Monitoring**
  - In the diagnotics section, choose the recommended option  
 ## Connection: 
