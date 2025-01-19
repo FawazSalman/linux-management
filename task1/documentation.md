@@ -40,7 +40,9 @@ a student account
  - Choose the time for shutdown
 
 **Monitoring**
- - In the diagnotics section, choose the recommended option  
+ - In the diagnotics section, choose the recommended option
+Here is the screenshot of all the settings that we made so far:
+![Pic of basic settings](https://github.com/FawazSalman/linux-management/blob/main/task1/images/azure2.png?raw=true)
 ## Connection: 
  - Download the private key to your device
  - To connect with your local machine choose **Native SSH**
