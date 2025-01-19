@@ -49,6 +49,7 @@ Here is the screenshot of all the settings that we made so far:
  - Copy your path in that section
  - After that open the command prompt and paste that path there and select yes
  - Finally, a connection is made successful
+![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/azure3.png?raw=true)
 
 
 
