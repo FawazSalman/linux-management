@@ -129,7 +129,7 @@ groups lupu
 
 ## Task 5: Create `/opt/projekti` and Assign Access
 I created a shared directory `/opt/projekti` for both `tupu` and `lupu`, ensuring only they could access and modify files inside.
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_five.png)
 ### Steps to Accomplish the Task
 1. **Create the directory**
    ```bash
