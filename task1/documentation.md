@@ -57,7 +57,7 @@ Here is the screenshot of all the settings that we made so far:
 This repository documents the process of managing users and setting up file access permissions in a Linux environment using a **Microsoft Virtual Machine**. The tasks involve creating users, modifying permissions, and ensuring secure access control.
 
 ## Task 1: Create the `Tupu` User
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_one.png)
 We created the `tupu` user using the `adduser` command:
 ```bash
 sudo adduser tupu
