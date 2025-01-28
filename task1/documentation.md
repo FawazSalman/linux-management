@@ -88,11 +88,6 @@ sudo useradd --system --shell /bin/false hupu
 - `--system`: Creates a system account
 - `--shell /bin/false`: Prevents user login
 
-To verify, run:
-```bash
-cat /etc/passwd | grep hupu
-```
-
 ---
 
 ## Task 4: Add `Tupu` and `Lupu` to Sudo Users
