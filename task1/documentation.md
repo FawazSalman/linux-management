@@ -171,7 +171,7 @@ Add the screenshots of each step at the respective locations:
 - **Task 1:** ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_one.png).
 - **Task 2:** ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_two.png).
 - **Task 3:** ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_three.png).
-- **Task 4:** ![]().
+- **Task 4:** ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_four.png).
 - **Task 5:** ![]().
 
 ---
