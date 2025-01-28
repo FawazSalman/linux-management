@@ -57,6 +57,7 @@ Here is the screenshot of all the settings that we made so far:
 This repository documents the process of managing users and setting up file access permissions in a Linux environment using a **Microsoft Virtual Machine**. The tasks involve creating users, modifying permissions, and ensuring secure access control.
 
 ## Task 1: Create the `Tupu` User
+![]()
 We created the `tupu` user using the `adduser` command:
 ```bash
 sudo adduser tupu
@@ -66,6 +67,7 @@ This command automatically creates the user, home directory, and sets up the nec
 ---
 
 ## Task 2: Create the `Lupu` User
+![]()
 To create the `lupu` user with a similar setup as `tupu`, we used the `useradd` command:
 ```bash
 sudo useradd -m -d /home/lupu -s /bin/bash -G lupu lupu
@@ -83,6 +85,7 @@ cat /etc/passwd | grep lupu
 ---
 
 ## Task 3: Create the `Hupu` System User
+![]()
 We created a system user `hupu` with a disabled login shell:
 ```bash
 sudo useradd --system --shell /bin/false hupu
@@ -125,8 +128,8 @@ groups lupu
 ---
 
 ## Task 5: Create `/opt/projekti` and Assign Access
-We created a shared directory `/opt/projekti` for both `tupu` and `lupu`, ensuring only they could access and modify files inside.
-
+I created a shared directory `/opt/projekti` for both `tupu` and `lupu`, ensuring only they could access and modify files inside.
+![]()
 ### Steps to Accomplish the Task
 1. **Create the directory**
    ```bash
