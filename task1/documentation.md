@@ -85,7 +85,7 @@ cat /etc/passwd | grep lupu
 ---
 
 ## Task 3: Create the `Hupu` System User
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_three.png)
 We created a system user `hupu` with a disabled login shell:
 ```bash
 sudo useradd --system --shell /bin/false hupu
