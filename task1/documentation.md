@@ -168,8 +168,8 @@ drwxrws--- 2 root projekti 4096 Jan 26 20:52 /opt/projekti
 
 ## Screenshots
 Add the screenshots of each step at the respective locations:
-- **Task 1:** Screenshot of `tupu` user creation.
-- **Task 2:** Screenshot of `lupu` user creation.
+- **Task 1:** ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_one.png).
+- **Task 2:** !{}().
 - **Task 3:** Screenshot of `hupu` system user verification.
 - **Task 4:** Screenshot of `tupu` and `lupu` in the `sudo` group.
 - **Task 5:** Screenshot showing correct ownership and permissions of `/opt/projekti`.
