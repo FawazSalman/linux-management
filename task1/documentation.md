@@ -50,7 +50,7 @@ Here is the screenshot of all the settings that we made so far:
  - After that open the command prompt and paste that path there and select yes
  - Finally, a connection is made successful
 ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/azure3.png?raw=true)
-
+---
 # Linux User and File Management Tasks
 
 ## Overview
@@ -58,7 +58,7 @@ This repository documents the process of managing users and setting up file acce
 
 ## Task 1: Create the `Tupu` User
 ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_one.png)
-We created the `tupu` user using the `adduser` command:
+I created the `tupu` user using the `adduser` command:
 ```bash
 sudo adduser tupu
 ```
@@ -68,7 +68,7 @@ This command automatically creates the user, home directory, and sets up the nec
 
 ## Task 2: Create the `Lupu` User
 ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_two.png)
-To create the `lupu` user with a similar setup as `tupu`, we used the `useradd` command:
+To create the `lupu` user with a similar setup as `tupu`, I used the `useradd` command:
 ```bash
 sudo useradd -m -d /home/lupu -s /bin/bash -G lupu lupu
 ```
@@ -77,16 +77,11 @@ sudo useradd -m -d /home/lupu -s /bin/bash -G lupu lupu
 - `-s /bin/bash`: Sets the login shell to `/bin/bash`
 - `-G lupu`: Adds the user to the `lupu` group
 
-**Note:** If you face issues, verify the user list using:
-```bash
-cat /etc/passwd | grep lupu
-```
-
 ---
 
 ## Task 3: Create the `Hupu` System User
 ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_three.png)
-We created a system user `hupu` with a disabled login shell:
+I created a system user `hupu` with a disabled login shell:
 ```bash
 sudo useradd --system --shell /bin/false hupu
 ```
@@ -101,30 +96,17 @@ cat /etc/passwd | grep hupu
 ---
 
 ## Task 4: Add `Tupu` and `Lupu` to Sudo Users
-We provided `sudo` privileges to both users using **either** of the following methods:
+I provided `sudo` privileges to both users using the following method:
 
 ### Using `visudo`
 ```bash
 sudo visudo
 ```
-Add these lines at the bottom of the file:
-```bash
-tupu ALL=(ALL:ALL) ALL
-lupu ALL=(ALL:ALL) ALL
-```
-
 ### Adding Users to the `sudo` Group
 ```bash
 sudo usermod -aG sudo tupu
 sudo usermod -aG sudo lupu
 ```
-
-To verify, check group membership:
-```bash
-groups tupu
-groups lupu
-```
-
 ---
 
 ## Task 5: Create `/opt/projekti` and Assign Access
@@ -143,7 +125,7 @@ I created a shared directory `/opt/projekti` for both `tupu` and `lupu`, ensurin
    ```
 3. **Assign correct ownership**
    ```bash
-   sudo chown -R root:projekti /opt/projekti
+   sudo chown tupu:lupu /opt/projekti
    ```
 4. **Set permissions**
    ```bash
@@ -153,7 +135,7 @@ I created a shared directory `/opt/projekti` for both `tupu` and `lupu`, ensurin
 
 ### Explanation
 - The **projekti group** ensures that both users (`tupu` and `lupu`) have access.
-- `chown -R root:projekti /opt/projekti` sets `root` as the owner and `projekti` as the group.
+- `chown tupu:lupu /opt/projekti` sets the ownership and to the users `tupu` and `lupu`.
 - `chmod 770` ensures **only** the owner and group members can access the directory.
 - `chmod g+s` ensures that any new files inside inherit the `projekti` group ownership.
 
