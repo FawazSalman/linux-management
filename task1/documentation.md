@@ -67,7 +67,7 @@ This command automatically creates the user, home directory, and sets up the nec
 ---
 
 ## Task 2: Create the `Lupu` User
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_two.png)
 To create the `lupu` user with a similar setup as `tupu`, we used the `useradd` command:
 ```bash
 sudo useradd -m -d /home/lupu -s /bin/bash -G lupu lupu
