@@ -164,16 +164,7 @@ Expected output:
 drwxrws--- 2 root projekti 4096 Jan 26 20:52 /opt/projekti
 ```
 
----
-
-## Screenshots
-Add the screenshots of each step at the respective locations:
-- **Task 1:** ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_one.png).
-- **Task 2:** ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_two.png).
-- **Task 3:** ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_three.png).
-- **Task 4:** ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_four.png).
-- **Task 5:** ![](https://github.com/FawazSalman/linux-management/blob/main/task1/images/task_five.png).
-
+-
 ---
 
 
