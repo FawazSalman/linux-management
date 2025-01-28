@@ -164,7 +164,6 @@ Expected output:
 drwxrws--- 2 root projekti 4096 Jan 26 20:52 /opt/projekti
 ```
 
--
 ---
 
 
