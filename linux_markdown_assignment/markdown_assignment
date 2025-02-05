@@ -1,1 +1,19 @@
+# Markdown and Linux Exercise
+
+## Author
+
+**Fawaz Salman**  
+**Class ID: BEIRP24A6**
+
+## Part 1: Markdown Exercise
+This section involves creating a `README.md` file and writing documentation using Markdown syntax.
+The document includes structured information with headings, lists, and formatted text.
+
+## Part 2: Linux Exercise
+In this section, Linux commands are used to create a new directory named `markdown_linux_assignment`.
+Inside this directory, a `README.md` file is created and edited using the `nano` text editor to include the required Markdown content.
+
+## Part 3: Git Version Control
+Git is initialized in the `markdown_linux_assignment` directory to track changes. The `README.md` file is added to version control using `git add`,
+and a commit is made with `git commit` to save the changes in the local repository.
 
