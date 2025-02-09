@@ -15,7 +15,7 @@ apt --version
 **Output:**  
 The command displays the installed APT version.
 
-![]() 
+![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/1.1.png) 
 
 ---
 
