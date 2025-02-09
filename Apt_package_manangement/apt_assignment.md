@@ -40,7 +40,7 @@ sudo apt upgrade -y
 - `update`: Fetches the latest package lists but does not install updates.  
 - `upgrade`: Installs the latest versions of installed packages.  
 
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/2.png)
 
 ---
 
