@@ -189,17 +189,3 @@ E: Unable to locate package fakepackage
 
 ![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/10.png)
 
----
-
-## **Conclusion**
-Through this assignment, we learned how to:  
-✅ Manage packages using APT (install, update, remove).  
-✅ Work with repositories and dependencies.  
-✅ Troubleshoot package installation issues.  
-
-📌 **This documentation includes all commands, outputs, and screenshots where required.**  
-
----
-
-### ✅ **Save this as `APT_Package_Management.md` and upload it to GitHub!**  
-Let me know if you need any modifications! 🚀
