@@ -187,7 +187,7 @@ E: Unable to locate package fakepackage
 - Verify if the package exists using `apt search <package-name>`.  
 - Ensure the correct repository is enabled in `/etc/apt/sources.list`.  
 
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/10.png)
 
 ---
 
