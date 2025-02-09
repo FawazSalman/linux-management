@@ -75,7 +75,7 @@ apt show exult-studio
 **Dependencies Required:**  
 [List of dependencies from the output]  
 
-![]() 
+![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/4.png) 
 
 ---
 
