@@ -167,7 +167,7 @@ sudo apt update
 **What types of packages are in the Universe repository?**  
 - It contains **community-maintained** open-source software.  
 
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/9.png)
 
 ---
 
