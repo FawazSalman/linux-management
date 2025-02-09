@@ -86,9 +86,6 @@ sudo apt install exult-studio -y
 ```
 **Installation Confirmation:**  
 The package was successfully installed.  
-
-📷 **Insert Screenshot of the installation command and output.**  
-
 ---
 
 ### **8. Check Installed Package Version**
