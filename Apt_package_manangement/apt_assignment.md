@@ -61,28 +61,28 @@ Displays the list of packages that can be upgraded.
 ```bash
 apt search image editor
 ```
-**Selected Package:** `[Your chosen package name]`  
+**Selected Package:** `exult-studio`  
 
-📷 **Insert Screenshot of `apt search image editor`, highlighting the chosen package.**  
+![]()
 
 ---
 
 ### **6. View Package Details**
 **Command:**  
 ```bash
-apt show <package-name>
+apt show exult-studio
 ```
 **Dependencies Required:**  
 [List of dependencies from the output]  
 
-📷 **Insert Screenshot of `apt show <package-name>` showing dependencies.**  
+![]() 
 
 ---
 
 ### **7. Install the Package**
 **Command:**  
 ```bash
-sudo apt install <package-name> -y
+sudo apt install exult-studio -y
 ```
 **Installation Confirmation:**  
 The package was successfully installed.  
@@ -94,11 +94,11 @@ The package was successfully installed.
 ### **8. Check Installed Package Version**
 **Command:**  
 ```bash
-apt list --installed | grep <package-name>
+apt list --installed | grep exult-studio
 ```
-**Installed Version:** `[Version number]`  
+**Installed Version:** `1.8-2build3 amd 64`  
 
-📷 **Insert Screenshot of `apt list --installed | grep <package-name>` showing the installed version.**  
+![]()  
 
 ---
 
