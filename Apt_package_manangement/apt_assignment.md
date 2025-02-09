@@ -154,7 +154,7 @@ cat /etc/apt/sources.list
 **Observations:**  
 - This file contains the list of software repositories (e.g., `main`, `universe`, `restricted`, `multiverse`).  
 
-![]()  
+![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/7.png)  
 
 ---
 
