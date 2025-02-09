@@ -120,7 +120,7 @@ sudo apt purge exult-studio -y
 - `remove`: Uninstalls the package but keeps configuration files.  
 - `purge`: Removes the package and its configuration files.  
 
-![]()  
+![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/6.png)  
 
 ---
 
@@ -154,7 +154,7 @@ cat /etc/apt/sources.list
 **Observations:**  
 - This file contains the list of software repositories (e.g., `main`, `universe`, `restricted`, `multiverse`).  
 
-📷 **Insert Screenshot of `cat /etc/apt/sources.list`, showing some repository URLs.**  
+![]()  
 
 ---
 
@@ -167,7 +167,7 @@ sudo apt update
 **What types of packages are in the Universe repository?**  
 - It contains **community-maintained** open-source software.  
 
-📷 **Insert Screenshot of `sudo add-apt-repository universe` and `sudo apt update`.**  
+![]()
 
 ---
 
@@ -187,7 +187,7 @@ E: Unable to locate package fakepackage
 - Verify if the package exists using `apt search <package-name>`.  
 - Ensure the correct repository is enabled in `/etc/apt/sources.list`.  
 
-📷 **Insert Screenshot of `sudo apt install fakepackage` showing the error message.**  
+![]()
 
 ---
 
