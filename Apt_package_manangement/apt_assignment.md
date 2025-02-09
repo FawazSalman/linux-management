@@ -63,7 +63,7 @@ apt search image editor
 ```
 **Selected Package:** `exult-studio`  
 
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/3.png)
 
 ---
 
