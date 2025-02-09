@@ -27,7 +27,7 @@ sudo apt update
 **Why is this step important?**  
 - It updates the local package index from the repositories, ensuring we get the latest available versions.  
 
-![]()  
+![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/1.png)  
 
 ---
 
