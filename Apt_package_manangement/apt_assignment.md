@@ -72,8 +72,7 @@ apt search image editor
 ```bash
 apt show exult-studio
 ```
-**Dependencies Required:**  
-[List of dependencies from the output]  
+**Dependencies Required:**   
 
 ![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/4.png) 
 
@@ -85,7 +84,8 @@ apt show exult-studio
 sudo apt install exult-studio -y
 ```
 **Installation Confirmation:**  
-The package was successfully installed.  
+The package was successfully installed. 
+
 ---
 
 ### **8. Check Installed Package Version**
@@ -109,20 +109,18 @@ sudo apt remove <package-name> -y
 **Is the package fully removed?**  
 - No, the configuration files remain on the system.  
 
-📷 **Insert Screenshot of `sudo apt remove <package-name> -y` output.**  
-
 ---
 
 ### **10. Remove Configuration Files**
 **Command:**  
 ```bash
-sudo apt purge <package-name> -y
+sudo apt purge exult-studio -y
 ```
 **Difference between `remove` and `purge`?**  
 - `remove`: Uninstalls the package but keeps configuration files.  
 - `purge`: Removes the package and its configuration files.  
 
-📷 **Insert Screenshot of `sudo apt purge <package-name> -y` output.**  
+![]()  
 
 ---
 
@@ -132,9 +130,7 @@ sudo apt purge <package-name> -y
 sudo apt autoremove -y
 ```
 **Why is this step important?**  
-- It removes orphaned dependencies that are no longer needed.  
-
-📷 **Insert Screenshot of `sudo apt autoremove -y` if dependencies were removed.**  
+- It removes the dependencies that are no longer needed.  
 
 ---
 
@@ -145,8 +141,6 @@ sudo apt clean
 ```
 **What does this command do?**  
 - It clears the package cache stored in `/var/cache/apt/archives`, freeing up disk space.  
-
-📷 **Insert Screenshot of `sudo apt clean` (optional).**  
 
 ---
 
