@@ -98,7 +98,7 @@ apt list --installed | grep exult-studio
 ```
 **Installed Version:** `1.8-2build3 amd 64`  
 
-![]()  
+![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/5.png)  
 
 ---
 
