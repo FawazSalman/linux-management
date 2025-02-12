@@ -180,12 +180,7 @@ sudo apt install fakepackage
 ```
 E: Unable to locate package fakepackage
 ```
-
-**How to troubleshoot?**  
-- Check for typos in the package name.  
-- Run `sudo apt update` to refresh package lists.  
-- Verify if the package exists using `apt search <package-name>`.  
-- Ensure the correct repository is enabled in `/etc/apt/sources.list`.  
+ 
 
 ![](https://github.com/FawazSalman/linux-management/blob/main/Apt_package_manangement/images/10.png)
 
