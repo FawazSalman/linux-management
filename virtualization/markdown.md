@@ -45,6 +45,10 @@ lxc exec my-container -- bash
 ### Study Materials
 *(Insert screenshots of installation and container management commands here)*
 
+### Screenshots
+![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/a.png)
+![]()
+![]()
 ### Challenges Faced
 *(Describe any problems faced with LXD and how they were resolved.)*
 
