@@ -78,7 +78,7 @@ docker rm my-nginx
 
 ### Screenshots
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/d.png)
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/e.png)
 ![]()
 ### Challenges Faced
 *(Describe any issues faced while working with Docker and their solutions.)*
