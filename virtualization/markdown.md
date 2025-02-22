@@ -76,6 +76,10 @@ docker rm my-nginx
 ### Study Materials
 *(Insert screenshots of Docker installation and commands execution here)*
 
+### Screenshots
+![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/d.png)
+![]()
+![]()
 ### Challenges Faced
 *(Describe any issues faced while working with Docker and their solutions.)*
 
