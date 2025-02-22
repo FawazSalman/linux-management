@@ -48,7 +48,7 @@ lxc exec my-container -- bash
 ### Screenshots
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/a.png)
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/b.png)
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/c.png)
 ### Challenges Faced
 *(Describe any problems faced with LXD and how they were resolved.)*
 
