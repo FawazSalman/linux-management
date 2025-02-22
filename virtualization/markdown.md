@@ -25,7 +25,7 @@ multipass shell my-vm
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/Screenshot%202025-02-16%20191340.png)
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/Screenshot%202025-02-16%20191410.png)
 ### Challenges Faced
-*(Describe any issues encountered during installation or usage of Multipass and solutions applied.)*
+
 
 ## Part 3: Exploring LXD
 
@@ -43,14 +43,14 @@ lxc exec my-container -- bash
 ```
 
 ### Study Materials
-*(Insert screenshots of installation and container management commands here)*
+
 
 ### Screenshots
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/a.png)
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/b.png)
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/c.png)
 ### Challenges Faced
-*(Describe any problems faced with LXD and how they were resolved.)*
+
 
 ## Part 4: How to Stick Apps with Docker
 
@@ -74,14 +74,14 @@ docker rm my-nginx
 ```
 
 ### Study Materials
-*(Insert screenshots of Docker installation and commands execution here)*
+
 
 ### Screenshots
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/d.png)
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/e.png)
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/f.png)
 ### Challenges Faced
-*(Describe any issues faced while working with Docker and their solutions.)*
+
 
 ## Part 5: Snaps for Self-Contained Applications
 
@@ -103,13 +103,13 @@ snapcraft
 ```
 
 ### Study Materials
-*(Insert screenshots of Snapcraft installation, configuration, and packing process here)*
+
 
 ### Screenshots
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/1.png)
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/2.png)
 ### Challenges Faced
-*(Describe any challenges faced while working with Snapcraft and solutions applied.)*
+
 
 ## Summary
 Provide a reflection on the overall learning experience, key takeaways, and how virtualization, LXD, Docker, and Snapcraft contribute to modern Linux systems.
