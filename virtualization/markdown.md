@@ -101,6 +101,9 @@ snapcraft
 ### Study Materials
 *(Insert screenshots of Snapcraft installation, configuration, and packing process here)*
 
+### Screenshots
+![]()
+![]()
 ### Challenges Faced
 *(Describe any challenges faced while working with Snapcraft and solutions applied.)*
 
