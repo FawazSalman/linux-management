@@ -103,7 +103,7 @@ snapcraft
 
 ### Screenshots
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/1.png)
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/2.png)
 ### Challenges Faced
 *(Describe any challenges faced while working with Snapcraft and solutions applied.)*
 
