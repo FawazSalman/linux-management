@@ -1,17 +1,6 @@
 # Linux Virtualization Assignment
 
-## Part 1: Introduction to Virtualization Concepts
-
-### Overview
-Provide a brief summary of virtualization concepts, including types (full virtualization, para-virtualization, containerization) and their benefits.
-
-### Study Materials
-*(Insert screenshots of study materials here)*
-
-### Challenges Faced
-*(Describe any difficulties encountered in understanding virtualization concepts and how they were resolved.)*
-
-## Part 2: Working with Multipass
+## Working with Multipass
 
 ### Installation of Multipass
 ```bash
