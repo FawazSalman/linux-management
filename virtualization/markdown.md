@@ -34,7 +34,7 @@ multipass shell my-vm
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/Screenshot%202025-02-16%20191250.png)
 ![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/Screenshot%202025-02-16%20191340.png)
 ![]()
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/Screenshot%202025-02-16%20191410.png)
 ### Challenges Faced
 *(Describe any issues encountered during installation or usage of Multipass and solutions applied.)*
 
