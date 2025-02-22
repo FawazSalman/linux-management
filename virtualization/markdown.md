@@ -102,7 +102,7 @@ snapcraft
 *(Insert screenshots of Snapcraft installation, configuration, and packing process here)*
 
 ### Screenshots
-![]()
+![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/1.png)
 ![]()
 ### Challenges Faced
 *(Describe any challenges faced while working with Snapcraft and solutions applied.)*
